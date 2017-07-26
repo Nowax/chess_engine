@@ -8,7 +8,7 @@ public class engineTest {
 
 	@Test
 	public void testGet() {
-		assertEquals(engine.get(), "asaa");
+		assertEquals(engine.get(), "asa");
 	}
 
 }
